@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>img_non_disponibile.jpg</file>
+        <file>dati.xml</file>
+    </qresource>
+</RCC>
