@@ -1,4 +1,6 @@
-# Arsenal
+# Arsenal 
+![Logo](./Arsenal/icon.png)
+<br/>
 Repository per il codice sorgente per il progetto per corso di Programmazione ad oggetti all'Università di Padova, A.A. 2018/2019.
 
 <hr/>
